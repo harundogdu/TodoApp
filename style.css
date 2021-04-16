@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to right, #1D2671, #C33764);
+}
+
+#header {
+    margin: 25px;
+    font-size: 35px;
+    color: #fff;
+}
+
+a {
+    color: white;
+}
+
+#txtTaskName {
+    outline-color: red;
+}
